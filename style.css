@@ -31,9 +31,7 @@ div.midle {
 div.midle:hover {
     background-color: rgba(158, 151, 151, 0.841);
     border: none;
-    border-radius: 20px;
-    transition: 200ms;
-    
+    transition: 200ms;  
 }
 
 .nbar li a:hover,.nbar li a.active {
