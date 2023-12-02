@@ -29,7 +29,8 @@ div.midle {
 }
 
 div.midle:hover {
-    background-color: rgba(158, 151, 151, 0.841);
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0, 0.4);
     transition: 200ms;  
 }
 
